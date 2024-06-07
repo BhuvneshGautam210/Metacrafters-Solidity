@@ -2,8 +2,8 @@
 This Solidity contract, named BattleGroundsMobileIndia, represents a simple token contract with the following features:
 Public Variables
 
-    name: The name of the token, set to "Counter-Strike Token". Its constant so we cannot reassign any value.
-    symbol: The abbreviation of the token, set to "CSGO". This variable is also constant.
+    name: The name of the token, set to "BattleGroundsMobileIndia Token". Its constant so we cannot reassign any value.
+    symbol: The abbreviation of the token, set to "BGMI". This variable is also constant.
     totalSupply: The total supply of the token, initially set to 0.
 
 Mapping
